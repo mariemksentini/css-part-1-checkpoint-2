@@ -1,0 +1,33 @@
+#home{
+    background-color: #D1C5B9;
+    padding: 2%;
+    color: rgb(66, 42, 10);
+
+}
+.navbar {
+    position: sticky; /* Sticks to the top when scrolling */
+    top: 0; /* The navbar will stick at the top of the viewport */
+    /* padding: 10px; */
+    z-index: 1000;
+}
+
+h3{
+    padding-top: 15px;
+    color : rgb(66, 42, 10);
+    padding-bottom: 15px;
+}
+
+.card{
+    color: rgb(255, 255, 255);
+    background-color: #D1C5B9;
+}
+.custom-btn {
+    background-color: #ffffff; /* Your custom color */
+    color:#bfb4aa;
+}
+footer {
+    background-color: #e4dcd3;
+    padding: 2%;
+    color: rgb(66, 42, 10);
+
+}
